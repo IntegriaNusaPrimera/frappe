@@ -565,6 +565,7 @@
  ],
  "icon": "fa fa-bolt",
  "idx": 6,
+ "index_web_pages_for_search": 1,
  "links": [
   {
    "group": "Views",
@@ -642,7 +643,7 @@
    "link_fieldname": "reference_doctype"
   }
  ],
- "modified": "2022-08-24 06:42:27.779699",
+ "modified": "2022-09-11 15:15:50.276297",
  "modified_by": "Administrator",
  "module": "Core",
  "name": "DocType",
@@ -652,6 +653,7 @@
    "create": 1,
    "delete": 1,
    "email": 1,
+   "if_owner": 1,
    "print": 1,
    "read": 1,
    "report": 1,
